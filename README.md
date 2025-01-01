@@ -1,3 +1,8 @@
+> [!TIP]
+> # THIS REPOSITORY IS ARCHIVED. (TENEO BETA STAGE)
+> # This repository is no longer actively maintained.  <br>
+> # For the latest version and updates, please use the new bot at [teneo-node-bot-js](https://github.com/cmalf/teneo-node-bot-js)
+
 # ᝰ.ᐟ TENEO-NODE
 
 Running Teneo Node BETA, CLI Version with 9 Different Languages. <br>
